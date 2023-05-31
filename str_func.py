@@ -1,5 +1,12 @@
-
 def string_upper(string):
+    """
+    Функция принимает строку и возвращает ее в верхнем регистре.
+
+    Аргументы:
+    string (str): Исходная строка.
+
+    Возвращает:
+    str: Строка в верхнем регистре.
+    """
     return string.upper()
 
-# print(string_upper("baron, viscount, earl, marquise, duke"))
